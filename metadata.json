@@ -1,0 +1,5 @@
+{
+  "name": "Innovate Insights",
+  "description": "A simple, visually appealing static blog/news site built with React and Tailwind CSS. It features a responsive layout with a featured article and a grid of other posts.",
+  "requestFramePermissions": []
+}
